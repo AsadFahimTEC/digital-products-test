@@ -56,9 +56,32 @@
     padding: 10px 20px;
 }
 
+.container-about-us{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row-reverse;
+    padding: 10px;
 
+}
 
+.first-title{
+    text-align: center;
+    font-size: 55px;
+    padding-top: 20px;
+}
+
+.title3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 25px;
+}
+
+.second{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
 .photo{
-    width: 300px;
+    width: 300px;  
 }
 
