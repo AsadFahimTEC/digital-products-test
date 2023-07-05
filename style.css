@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-container{
+    background-color: #424141;
+    padding: 20px;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+
+.menus{
+    display: flex;
+}
+
+.logo-photo{
+    width: 120px;
+}
+
+.item{
+    margin-left: 10px;
+    padding: 7px;
+    font-style: 18px;   
+}
+
+
+
