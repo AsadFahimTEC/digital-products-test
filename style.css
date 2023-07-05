@@ -27,5 +27,38 @@
     font-style: 18px;   
 }
 
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    align-items: center;
+    background-image: url(./images/background.png),linear-gradient(45deg, rgb(32, 32, 32),
+     rgb(8, 8, 8));
+     color: white;
 
+}
+
+.title{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+.description{
+    margin-top: 10px;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.btn{
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+}
+
+
+
+.photo{
+    width: 300px;
+}
 
